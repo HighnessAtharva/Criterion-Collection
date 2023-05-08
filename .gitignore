@@ -1,4 +1,10 @@
 /criterion.csv
 /criterion.db
 /criterion_cleaned.csv
-/env
+/criterion-env
+
+# PYCACHES
+/criterion_api/__pycache__
+/criterion_scraper/criterion_scraper/__pycache__
+movie/__pycache__
+movie/migrations/__pycache__
